@@ -48,6 +48,19 @@ text-decoration: none;
 color: black;
 }
 
+button:hover{
+    background-color: aqua;
+    color: black;
+    border: none;
+}
+
+.nav-link:hover{
+    color: rgb(31, 70, 169);
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
 .cart  {
     flex: 1;
     justify-content: flex-end;
@@ -189,3 +202,4 @@ cover{
         opacity: 0.2;
     }
 }
+
