@@ -154,13 +154,7 @@ cover{
     
 }
 
-.laptop-select{
-    width: 15%;  
-    display: flex;
-    justify-content: space-around;
-    position: absolute;
-    right: 20%;
-}
+
 
 @keyframes drop {
     0% {
